@@ -1,0 +1,19 @@
+{
+  "name": "SPORTS HUB — Ranking e estatísticas",
+  "short_name": "Sports Hub",
+  "description": "Protótipo esportivo independente com Tennis Rank, Scout, conquistas e desempenho",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#071322",
+  "theme_color": "#071322",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
